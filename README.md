@@ -5,6 +5,7 @@
 ## Install
 
 ```bash
+npm i vue-hooks-picker
 ```
 #### Parameters
 *   `path` **设置键值的链路** 
